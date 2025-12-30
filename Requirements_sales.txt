@@ -1,0 +1,5 @@
+Requirements for data analysis of Sales data:
+
+Jupyter Notebook
+Python
+Pandas
